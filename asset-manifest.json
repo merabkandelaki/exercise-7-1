@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exercise-7-1/static/css/main.23a3936d.css",
+    "main.js": "/exercise-7-1/static/js/main.72c7eb76.js",
+    "index.html": "/exercise-7-1/index.html",
+    "main.23a3936d.css.map": "/exercise-7-1/static/css/main.23a3936d.css.map",
+    "main.72c7eb76.js.map": "/exercise-7-1/static/js/main.72c7eb76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a3936d.css",
+    "static/js/main.72c7eb76.js"
+  ]
+}
